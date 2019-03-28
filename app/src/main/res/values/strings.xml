@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">exercicio05</string>
+    <string name="numero_de_vitorias_do_x">Número de vitórias do X</string>
+    <string name="numero_de_vitorias_do_o">Número de vitórias do O</string>
+    <string name="jogo_da_velha">Jogo da Velha</string>
+</resources>
